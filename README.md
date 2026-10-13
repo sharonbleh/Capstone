@@ -27,7 +27,8 @@ Capstone for *PDEs, Transforms and Optimization Techniques* · AY 2025–2026 ·
 8. [Limitations](#limitations)
 9. [Future Work](#future-work)
 10. [References](#references)
-11. [Acknowledgements](#acknowledgements)
+11. [Demonstration](#demo)
+12. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -54,10 +55,9 @@ Fourier's law  →  Poisson PDE  →  Finite-difference matrix  →  Minimax lin
 
 | File | Description |
 | :--- | :--- |
-| [`report.pdf`](report.pdf) | Full written report (6 pages): derivation, numerical verification, scenarios, sensitivity and mesh studies, limitations. |
-| [`Thermal_Aware_Power_Budgeting_final.pdf`](Thermal_Aware_Power_Budgeting_final.pdf) | Review presentation slides (8 slides). |
-| [`thermal_power_budgeting_expanded_final_.ipynb`](thermal_power_budgeting_expanded_final_.ipynb) | Jupyter notebook with the full numerical pipeline and figures. |
-| [`README.md`](README.md) | This file. |
+| [report.pdf]| Full written report (6 pages): derivation, numerical verification, scenarios, sensitivity and mesh studies, limitations. |
+| [code.ipynb]| Jupyter notebook with the full numerical pipeline and figures. |
+| [README.md]| This file. |
 
 ---
 
@@ -226,6 +226,15 @@ Two points worth keeping in mind:
 ---
 
 <a id="acknowledgements"></a>
+
+## Demonstration
+[
+
+![Watch the demo](https://drive.google.com/thumbnail?id=1wSijVzm8fUTJKWuJU0btphtIMxSJnT8u)
+
+](https://drive.google.com/file/d/1wSijVzm8fUTJKWuJU0btphtIMxSJnT8u/view)
+
+<a id="demo"></a>
 
 ## Acknowledgements
 
